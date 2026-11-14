@@ -5,5 +5,15 @@ G2SA but COM
 
 Why?
 
-My work getting the StealthBurner (SB-COM) into a fantastic place h
+My work on transforming the StealthBurner (SB-COM) into a center-of-mass (COM) centric ecosystem sparked a desire to explore other opportunities for optimizing toolhead design. Naturally, this led me to extruders.
+
+Arguably, one of the most popular upgrades to the stock Voron ecosystem is JaredC01’s Galileo 2 extruder. Building upon the planetary gear-driven architecture popularized by Dr. L’s Orbiter 2, JaredC01, in collaboration with LDO, introduced a more open-source, DIY-friendly solution. Despite notable differences in gear ratios and mechanical architecture, the Galileo 2 remains, in my opinion, a community favorite.
+
+However, despite the impressive engineering behind these extruders, there is one fundamental design consideration that I believe deserves more attention:
+
+**Balance.**
+
+This is where the G2-COM comes into play.
+
+
 
